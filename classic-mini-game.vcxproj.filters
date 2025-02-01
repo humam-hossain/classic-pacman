@@ -13,10 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\audio">
+      <UniqueIdentifier>{17efd674-ba48-4f8b-80e1-71ffe2909a4e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="assets\audio\credit.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\munch_1.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\munch_2.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_1.mp3">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_1.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_2.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_3.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_4.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\siren_5.wav">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="assets\audio\start.mp3">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
   </ItemGroup>
 </Project>
